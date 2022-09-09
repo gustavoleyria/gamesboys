@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/gustavoleyria/gamesboys.git
-- Live Site URL: https://gustavoleyria.github.io/interactive-card-details-form-main/
+- Live Site URL: https://gustavoleyria.github.io/gamesboys/
 
 ## My process
 
